@@ -1,0 +1,29 @@
+{
+  "name": "random",
+  "version": "1.0.0",
+  "description": "Reactifying Node!!!",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "scripts": {
+    "test": "npm start",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dheeru015/Random.git"
+  },
+  "author": "Dheeraj D.M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dheeru015/Random/issues"
+  },
+  "homepage": "https://github.com/dheeru015/Random#readme"
+}
